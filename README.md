@@ -1,2 +1,3 @@
-# Respostas
-Repositorio contendo as respostas do exercicio 39 
+# Exercicio 39
+
+Aas respostas do exercicio estão no arquivo pdf
